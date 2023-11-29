@@ -1,7 +1,7 @@
 # Airport-System
 This project serves as a simple foundation for flight management, allowing basic operations such as registration, reservation, and information retrieval. It's an example of applying object-oriented concepts and interacting with users through Java's standard input and output.
 
-Main Functionalities: 
+- Main Functionalities: 
 
 Flight Registration: Requests information from the user about a new flight.
 Creates a Flight object with the provided data and adds it to a list of flights.
@@ -16,7 +16,7 @@ Presents details such as origin, destination, departure date and time, total num
 Interactive Menu: Provides an interactive menu for users to choose from the available functionalities.
 Allows users to navigate through the system's options.
 
-Key Components:
+- Key Components:
 
 Classes Flight and Passenger:
 Flight: Represents a flight with its attributes (number, origin, destination, etc.) and methods to manipulate seat reservations.
