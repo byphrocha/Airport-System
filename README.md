@@ -2,6 +2,7 @@
 This project serves as a simple foundation for flight management, allowing basic operations such as registration, reservation, and information retrieval. It's an example of applying object-oriented concepts and interacting with users through Java's standard input and output.
 
 Main Functionalities: 
+
 Flight Registration: Requests information from the user about a new flight.
 Creates a Flight object with the provided data and adds it to a list of flights.
 
