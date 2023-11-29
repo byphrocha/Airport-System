@@ -27,7 +27,8 @@ Main Class (AtvIntegradoraCo): Contains the main method that starts the program.
 Offers an interactive menu for system operations.
 Implements methods for each menu option, such as flight registration, seat reservation, and flight information inquiry.
 
-General Functioning:
+- General Functioning:
+
 Flight Registration: The user provides information about the new flight, which is used to create a Flight object and add it to the list of flights.
 
 Seat Reservation: The user provides the desired flight number and passenger details.
