@@ -17,6 +17,7 @@ Interactive Menu: Provides an interactive menu for users to choose from the avai
 Allows users to navigate through the system's options.
 
 Key Components:
+
 Classes Flight and Passenger:
 Flight: Represents a flight with its attributes (number, origin, destination, etc.) and methods to manipulate seat reservations.
 
